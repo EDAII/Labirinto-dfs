@@ -52,16 +52,7 @@ git clone https://github.com/EDAII/Visualizador_de_Labirintos_com_DFS.git
 python main.py
 ```
 
----
-
-## Controles disponíveis
-
-| Tecla      | Ação                                                                                |
-| ---------- | ----------------------------------------------------------------------------------- |
-| **ESPAÇO** | Inicia/Pausa a execução automática da busca.                                        |
-| **R**      | Reinicia a simulação com um novo labirinto aleatório.                               |
-| **S**      | Gera um labirinto **impossível** de resolver (com obstáculos bloqueando o caminho). |
-| **C**      | Limpa o caminho percorrido até o momento, reiniciando a visualização.               |
+            
 
 ---
 
