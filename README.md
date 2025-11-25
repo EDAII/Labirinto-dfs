@@ -80,7 +80,7 @@ Além disso, são exibidas informações na tela:
 
 Neste vídeo, é feita uma demonstração completa da aplicação, explicando o funcionamento do algoritmo DFS na resolução de labirintos.
 
-[Assista no YouTube](https://youtu.be/UKJEVJKgd0U)
+[Assista no YouTube](https://youtu.be/6XKPSsUPCi0)
 
 ---
 
